@@ -7,7 +7,7 @@
 
     Available Commands:
       help        Help about any command
-      move        Batch move files numbered files into a directory
+      move        Batch move numbered files into a directory
 
     Flags:
           --config string   config file (default is $HOME/.rename-tool.yaml)

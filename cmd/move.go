@@ -28,7 +28,7 @@ import (
 // moveCmd represents the move command
 var moveCmd = &cobra.Command{
 	Use:   "move [format string] [destination directory] [start number] [stop number]",
-	Short: "Batch move files numbered files into a directory",
+	Short: "Batch move numbered files into a directory",
 	Long: `
 The move command batch moves numbered files in the current 
 working directory to a given subdirectory. The format string 
